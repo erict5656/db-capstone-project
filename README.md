@@ -1,1 +1,1 @@
-# db-capstone-project setting up repository for project
+# Little Lemon Database Project
